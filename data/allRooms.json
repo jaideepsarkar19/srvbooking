@@ -1,0 +1,53 @@
+{
+  "rooms": [
+    {
+      "name": "Room 1",
+      "capacity": 50,
+      "isAvailable": true,
+      "location": "Ground"
+    },
+    {
+      "name": "Room 2",
+      "capacity": 100,
+      "isAvailable": true,
+      "location": "Banquet"
+    },
+    {
+      "name": "Room 3",
+      "capacity": 50,
+      "isAvailable": true,
+      "location": "Ground"
+    },
+    {
+      "name": "Room 4",
+      "capacity": 75,
+      "isAvailable": true,
+      "location": "Banquet"
+    },
+    {
+      "name": "Room 5",
+      "capacity": 70,
+      "isAvailable": true,
+      "location": "PatioHall"
+    },
+    {
+      "name": "Room 6",
+      "capacity": 2,
+      "isAvailable": true,
+      "location": "PatioHall"
+    },
+    {
+      "name": "Room 7",
+      "capacity": 25,
+      "isAvailable": true,
+      "location": "Ground"
+    },
+    {
+      "name": "Room 8",
+      "capacity": 30,
+      "isAvailable": true,
+      "location": "Banquet"
+    }
+    
+  ]
+}
